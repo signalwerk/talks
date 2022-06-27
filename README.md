@@ -3,6 +3,7 @@ Some talks I gave in the past
 
 
 ## Archive
+* [2022 · Preserve a website for the next 10 years](https://hackmd.io/@signalwerk/ByyGHsFm5) ([repo](https://github.com/signalwerk/talk.caminantes-grafico.preserve/))
 * [2022 · DNSControl](https://hackmd.io/@signalwerk/ByyGHsFm5) ([repo](https://github.com/signalwerk/talk.DNSControl))
 * [2022 · Text to speech](https://hackmd.io/@signalwerk/HklS1CE-c)
 * [2022 · creative coding for secret santa](https://hackmd.io/@signalwerk/B1k6fah2Y) to my [typo bubble experiment](https://signalwerk.github.io/visual.particle.typo/)
