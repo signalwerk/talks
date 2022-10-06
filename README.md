@@ -3,7 +3,7 @@ Some talks I gave in the past
 
 
 ## Archive
-* [2022 · Image style transfer and digital image generation with AI](https://signalwerk.github.io/talk.ai-image-generation/)
+* [2022 · Image style transfer and digital image generation with AI](https://signalwerk.github.io/talk.ai-image-generation/) ([repo](https://github.com/signalwerk/talk.ai-image-generation))
 * [2022 · Working only for food, shelter and experience in the 21st century](https://hackmd.io/@signalwerk/ByyGHsFm5) ([repo](https://github.com/signalwerk/talk.caminantes-grafico.project))
 * [2022 · Preserve a website for the next 10 years](https://hackmd.io/@signalwerk/ByyGHsFm5) ([repo](https://github.com/signalwerk/talk.caminantes-grafico.preserve/))
 * [2022 · DNSControl](https://hackmd.io/@signalwerk/ByyGHsFm5) ([repo](https://github.com/signalwerk/talk.DNSControl))
