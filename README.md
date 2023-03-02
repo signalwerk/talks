@@ -26,3 +26,10 @@ Some talks I gave in the past
 
 - [2022 · How to preserve curves](https://signalwerk.github.io/talk.preserve.curves/) ([repo](https://github.com/signalwerk/talk.preserve.curves))
 - [2022 · Image style transfer and digital image generation with AI](https://signalwerk.github.io/talk.ai-image-generation/) ([repo](https://github.com/signalwerk/talk.ai-image-generation))
+- [2022 · Text to speech](https://signalwerk.github.io/talk.text-to-speech/) ([repo](https://github.com/signalwerk/talk.text-to-speech))
+- [2022 · Working only for food, shelter and experience in the 21st century](https://signalwerk.github.io/talk.caminantes-grafico.project/) ([repo](https://github.com/signalwerk/talk.caminantes-grafico.project))
+- [2022 · My top three JavaScript errors](https://signalwerk.github.io/talk.js-fails/) ([repo](https://github.com/signalwerk/talk.js-fails))
+- [2022 · The new color vector fonts](https://signalwerk.github.io/talk.color-fonts/) ([repo](https://github.com/signalwerk/talk.color-fonts))
+- [2023 · AI code generation](https://signalwerk.github.io/talk.ai-coding/) ([repo](https://github.com/signalwerk/talk.ai-coding))
+- [2023 · Currying in JavaScript](https://signalwerk.github.io/talk.js.currying/) ([repo](https://github.com/signalwerk/talk.js.currying))
+- [2023 · Generative Snowflake · Creative Coding for Secret Santa](https://signalwerk.github.io/talk.visual.snowflake/) ([repo](https://github.com/signalwerk/talk.visual.snowflake))
