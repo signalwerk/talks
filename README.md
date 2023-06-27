@@ -1,6 +1,6 @@
 # talks
 
-Some talks I gave in the past
+Some talks I gave in the past. See also [Signalwerk Markdown Slides](https://github.com/signalwerk/signalwerk.slides.md)
 
 ## Ideas
 
