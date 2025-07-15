@@ -2,7 +2,7 @@
 
 Some talks I gave in the past. See also [Signalwerk Markdown Slides](https://github.com/signalwerk/signalwerk.slides.md)
 
-## Requirements
+## Requirements
 Requirements for a talk are documented [here](https://github.com/signalwerk/talks.requirements/blob/main/README.md)
 
 ## Ideas
